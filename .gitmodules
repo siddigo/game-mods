@@ -1,0 +1,3 @@
+[submodule "project-zomboid/weapons"]
+	path = project-zomboid/weapons
+	url = https://github.com/siddigo/SiddigoWeapons

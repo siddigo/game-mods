@@ -1,3 +1,6 @@
 [submodule "project-zomboid/weapons"]
 	path = project-zomboid/weapons
 	url = https://github.com/siddigo/SiddigoWeapons
+[submodule "project-zomboid/translation-ptbr"]
+	path = project-zomboid/translation-ptbr
+	url = https://github.com/siddigo/SiddigoTranslationPTBR

@@ -4,3 +4,6 @@
 [submodule "project-zomboid/translation-ptbr"]
 	path = project-zomboid/translation-ptbr
 	url = https://github.com/siddigo/SiddigoTranslationPTBR
+[submodule "project-zomboid/more-pictures"]
+	path = project-zomboid/more-pictures
+	url = https://github.com/siddigo/MorePictures

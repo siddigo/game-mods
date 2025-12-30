@@ -7,3 +7,6 @@
 [submodule "project-zomboid/more-pictures"]
 	path = project-zomboid/more-pictures
 	url = https://github.com/siddigo/MorePictures
+[submodule "hattrick/stats-track"]
+	path = hattrick/stats-track
+	url = https://github.com/siddigo/hattrick-stats
